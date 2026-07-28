@@ -105,18 +105,12 @@ fun_fact: "I debug faster at 2 AM ☕"
 <div align="center">
 
 ## 📊 &nbsp;GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=salmankhan-1106&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmankhan-1106&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="top langs" />
-
 </div>
 
 <!-- ══════════════ TROPHIES ══════════════ -->
 <div align="center">
 
 ## 🏆 &nbsp;Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=salmankhan-1106&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="trophies" />
 
 </div>
 
