@@ -109,14 +109,6 @@ fun_fact: "I debug faster at 2 AM ☕"
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=salmankhan-1106&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmankhan-1106&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="top langs" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=salmankhan-1106&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="streak" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=salmankhan-1106&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="activity graph" />
-
 </div>
 
 <!-- ══════════════ TROPHIES ══════════════ -->
